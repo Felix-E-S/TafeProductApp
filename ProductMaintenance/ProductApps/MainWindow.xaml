@@ -18,6 +18,7 @@
         <TextBlock Name="totalChargeTextBlock" HorizontalAlignment="Left" Height="23" Margin="230,209,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75" />
         <Label Content="Total Charge after adding the Wrap Charge (5$)" FontSize="7" HorizontalAlignment="Left" Height="30" Margin="46,240,0,0" VerticalAlignment="Top" Width="200" />
         <TextBlock Name="totalChargeAfterWrapTextBlock" HorizontalAlignment="Left" Height="23" Margin="230,240,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75" />
-
+        <Label Content="Total Charge after adding the GST @ 10%" FontSize="7" HorizontalAlignment="Left" Height="30" Margin="46,280,0,0" VerticalAlignment="Top" Width="200" />
+        <TextBlock Name="totalChargeAfterGSTTextBlock" HorizontalAlignment="Left" Height="23" Margin="230,280,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75" />
     </Grid>
 </Window>
